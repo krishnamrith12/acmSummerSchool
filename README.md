@@ -7,3 +7,7 @@
 - Summerschool Files: Check this reporsitory
 - Sam Whitman: https://github.com/samwit/langchain-tutorials
 - https://github.com/langchain-ai/langchain/tree/master/cookbook
+
+### Author
+Dr Amrith Krishna
+Principal Scientist, SML Generative AI
